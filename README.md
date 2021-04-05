@@ -20,7 +20,7 @@ DB_USER='root'
 DB_PW='XXX'
 ```
 ## Usage
-* 
+* https://sydcreel-tech-blog.herokuapp.com/
 
 ## Tests
 * In the terminal, run: jest --verbose tests/*
